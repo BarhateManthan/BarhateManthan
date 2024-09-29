@@ -13,7 +13,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)# 📊 GitHub Stats:
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BarhateManthan&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BarhateManthan&theme=gruvbox_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BarhateManthan&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
