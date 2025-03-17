@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 I'm a Second Year Undergrad Student pursuing B.Tech CSE(AI&ML) from Pimpri Chinchwad college of Engineering, Pune..<br>🔭 I’m currently working on integrating AI & ML ideas to real-world problems.<br>👯 I’m looking to collaborate on projects related to DS, ML, AI, Web-Dev <br>🤝 I’m looking for a team to participate in Hackathons.<br>🌱 I’m currently practicing DSA and exploring AI & ML and Web-Dev.<br>⚡ Fun fact - I am nerdy forgotten BGMI/PUBG gamer.
+💬 I'm a Third Year Undergrad Student pursuing B.Tech CSE(AI&ML) from Pimpri Chinchwad college of Engineering, Pune..<br>🔭 I’m currently working on integrating AI & ML ideas to real-world problems.<br>👯 I’m looking to collaborate on projects related to DS, ML, AI, Web-Dev <br>🤝 I’m looking for a team to participate in Hackathons.<br>🌱 I’m currently practicing DSA and exploring AI & ML and Web-Dev.<br>⚡ Fun fact - I am nerdy forgotten BGMI/PUBG gamer.
 
 
 ## 🌐 Socials:
@@ -25,10 +25,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=BarhateManthan&icon=5&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
